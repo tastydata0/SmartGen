@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.iml" filepath="$PROJECT_DIR$/.idea/modules/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.test.iml" />
+    </modules>
+  </component>
+</project>

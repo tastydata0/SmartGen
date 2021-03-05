@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="8">
+      <module name="Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.main" target="8" />
+      <module name="Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.core.test" target="8" />
+      <module name="Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.main" target="8" />
+      <module name="Genetic_Bots-1852af888621a314f0e5ebe5c952222461cf89a7.desktop.test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
